@@ -19,17 +19,6 @@ Currently in my third year, pursuing Electrical Engineering.
 - **Tools & OS:** Git, Jupyter Notebook, Google Colab, Windows  
 - **Libraries/Frameworks:** Pandas, Numpy, scikit-learn  
 - **Web Skills:** HTML5/CSS, Streamlit  
-
----
-
-## 🚀 Featured Projects
-
-- **Fruits Classification**  
-  Machine learning model to classify different types of fruits based on image data.
-
-- **Pattern Analysis Tool**  
-  An analytical tool for recognizing and interpreting patterns in datasets.
-
 ---
 
 ## 📊 GitHub Stats
