@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?text=Hii,%20Saichandana%20here!&animation=fadeIn&type=waving&color=gradient&height=100)
+![header](https://capsule-render.vercel.app/api?text=Hey,%20I'm%20SaiChandana!&fontColor=fff&animation=fadeIn&type=waving&color=0:ff7eb3,100:7afcff&height=120&fontAlignY=35)
+
 
 
 🎓 **Student @ IIT Jodhpur**  
