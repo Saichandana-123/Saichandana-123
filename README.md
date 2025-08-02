@@ -1,4 +1,5 @@
-# Hi there, I'm Saichandana! 👋
+![header](https://capsule-render.vercel.app/api?text=Hii,%20Saichandana%20here!&animation=fadeIn&type=waving&color=gradient&height=100)
+
 
 🎓 **Student @ IIT Jodhpur**  
 Currently in my third year, pursuing Electrical Engineering.
