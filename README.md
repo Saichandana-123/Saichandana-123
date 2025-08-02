@@ -26,8 +26,8 @@ Currently in my third year, pursuing Electrical Engineering.
 ![Saichandana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saichandana-123&show_icons=true&theme=radical)
 
 ---
+## 📫Connect with me on [LinkedIn](https://www.linkedin.com/in/saichandana-tumma-6a8a08285/)
 
-## 📫 Connect with me on [LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saichandana-tumma-6a8a08285/)
 
 *Thanks for visiting my profile!*
 
