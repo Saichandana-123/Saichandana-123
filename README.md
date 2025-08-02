@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?text=Hey,%20I'm%20SaiChandana!&fontColor=fff&animation=fadeIn&type=waving&color=0:ff7eb3,100:7afcff&height=120&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?text=Welcome%20to%20My%20Profile!&animation=twinkling&type=waving&color=0:000428,100:004e92&height=120&fontColor=fff)
+
 
 
 
