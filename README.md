@@ -44,7 +44,6 @@ Currently in my third year, pursuing Electrical Engineering.
 ---
 
 *Thanks for visiting my profile!*
-## Hi there 👋
 
 <!--
 **Saichandana-123/Saichandana-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
