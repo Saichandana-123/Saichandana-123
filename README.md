@@ -17,7 +17,7 @@ Currently in my third year, pursuing Electrical Engineering.
 - 🔭 I’m passionate about learning and building things that make a difference.
 - 💻 Currently Exploring Full Stack Development.
 - 💡 My motto: **"Every Expert was once a beginner."**
-- 🎶 Outside the classroom and code, you'll find me immersed in Classical Indian music.
+- 🎶 Outside the classroom and code, you'll find me immersed in Indian Classical Music.
 
 ---
 
