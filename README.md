@@ -26,7 +26,7 @@ Currently in my third year, pursuing Electrical Engineering.
 - **Programming:** C/C++, Python  
 - **Tools & OS:** Git, Jupyter Notebook, Google Colab, Windows  
 - **Libraries/Frameworks:** Pandas, Numpy, scikit-learn  
-- **Web Skills:** HTML5/CSS, Streamlit  
+- **Web Skills:** HTML5/CSS,JavaScript, Streamlit  
 ---
 
 ## 📊 GitHub Stats
