@@ -2,7 +2,7 @@
 
 
 🎓 **Student @ IIT Jodhpur**  
-Currently in my third year, pursuing Electrical Engineering.
+Currently in my Fourth year, pursuing Electrical Engineering.
 
 ---
 
